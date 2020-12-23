@@ -1,6 +1,6 @@
 {
-  "name": "card-reader-app",
-  "homepage": "http://dzoladz.github.io/card-reader-app",
+  "name": "card-readings-template",
+  "homepage": "http://dzoladz.github.io/card-readerings-template",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
