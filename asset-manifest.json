@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/card-reader-app/static/css/main.c7fa886e.chunk.css",
-    "main.js": "/card-reader-app/static/js/main.0a20248f.chunk.js",
-    "main.js.map": "/card-reader-app/static/js/main.0a20248f.chunk.js.map",
-    "runtime-main.js": "/card-reader-app/static/js/runtime-main.18dd0bc0.js",
-    "runtime-main.js.map": "/card-reader-app/static/js/runtime-main.18dd0bc0.js.map",
-    "static/js/2.5f26eff4.chunk.js": "/card-reader-app/static/js/2.5f26eff4.chunk.js",
-    "static/js/2.5f26eff4.chunk.js.map": "/card-reader-app/static/js/2.5f26eff4.chunk.js.map",
-    "index.html": "/card-reader-app/index.html",
-    "precache-manifest.08487ba50b9714268dd8c0d594a0041f.js": "/card-reader-app/precache-manifest.08487ba50b9714268dd8c0d594a0041f.js",
-    "service-worker.js": "/card-reader-app/service-worker.js",
-    "static/css/main.c7fa886e.chunk.css.map": "/card-reader-app/static/css/main.c7fa886e.chunk.css.map",
-    "static/js/2.5f26eff4.chunk.js.LICENSE": "/card-reader-app/static/js/2.5f26eff4.chunk.js.LICENSE"
+    "main.css": "/card-readerings-template/static/css/main.c7fa886e.chunk.css",
+    "main.js": "/card-readerings-template/static/js/main.0641f009.chunk.js",
+    "main.js.map": "/card-readerings-template/static/js/main.0641f009.chunk.js.map",
+    "runtime-main.js": "/card-readerings-template/static/js/runtime-main.d8f41c5b.js",
+    "runtime-main.js.map": "/card-readerings-template/static/js/runtime-main.d8f41c5b.js.map",
+    "static/js/2.948c5b31.chunk.js": "/card-readerings-template/static/js/2.948c5b31.chunk.js",
+    "static/js/2.948c5b31.chunk.js.map": "/card-readerings-template/static/js/2.948c5b31.chunk.js.map",
+    "index.html": "/card-readerings-template/index.html",
+    "precache-manifest.84890499978adae26da2121d211e6400.js": "/card-readerings-template/precache-manifest.84890499978adae26da2121d211e6400.js",
+    "service-worker.js": "/card-readerings-template/service-worker.js",
+    "static/css/main.c7fa886e.chunk.css.map": "/card-readerings-template/static/css/main.c7fa886e.chunk.css.map",
+    "static/js/2.948c5b31.chunk.js.LICENSE": "/card-readerings-template/static/js/2.948c5b31.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.18dd0bc0.js",
-    "static/js/2.5f26eff4.chunk.js",
+    "static/js/runtime-main.d8f41c5b.js",
+    "static/js/2.948c5b31.chunk.js",
     "static/css/main.c7fa886e.chunk.css",
-    "static/js/main.0a20248f.chunk.js"
+    "static/js/main.0641f009.chunk.js"
   ]
 }
