@@ -1,0 +1,113 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "image": "images/card-deck/0.jpg",
+    "keywords": "Carefree · Foolish · Important decisions · New beginnings · Optimistic",
+    "general": "The Fool is a very powerful card in the Tarot deck, usually representing a new beginning -- and, consequently, an end to something in your old life. The Fool's position in your spread reveals which aspects of your life may be subject to change. The Fool portends important decisions ahead which may not be easy to make, and involve an element of risk for you. Approach the changes with optimism and care to gain the most positive outcome.",
+    "past": "The risks you have taken and your original thinking have brought you success. By doing things in a new way, you have allowed for great potential.",
+    "present": "At this moment, you are entering a new phase of life. The experience of this change may seem good or bad now, but its influence will be clearer in the future. Assessing the risks is crucial to making the right choice.",
+    "future": "In order to succeed, you must find new ways to bring about the achievement of your goals. When the opportunity comes, you must be willing to shed old habits and if it never comes, it may be time to create it for yourself with new methods.",
+    "yesno": "The Fool represents new beginnings and carefree adventure. Though this card could indicate foolishness, it is more optimistic in the sense that it stands for pure actions and being free from the constraints of your present life. More than likely, there are important decisions coming your way, and the answer to your question is yes."
+  }, {
+    "id": 1,
+    "name": "The Magician",
+    "image": "images/card-deck/1.jpg",
+    "keywords": "Confident · Creative · Important communications · Skillful · Talented & proficient",
+    "general": "The Magician generally associates with intelligent and skillful communicators. His presence in your spread indicates a level of self-confidence and drive which allows you to translate ideas into action. A practical card, the revelations it brings are best applied to the pragmatic and physical aspects of your life, rather then the ephemeral or theoretical. Your success in upcoming ventures in politics or business will likely hinge upon your own strength of will and determination.",
+    "past": "Your confidence and creativity have allowed you to effectively make your ideas into reality. You have found success through intelligence and skillful execution.",
+    "present": "Presently, there is a need for your knowledge and skills to influence the changes that are occuring. In order to make the changes beneficial, you must play your cards right.",
+    "future": "The future before you is uncertain, presenting both risk and opportunity. The possibilities will be influenced by the friendships you have nurtured and the support you have from those who are close. A triumph or creative success may bring about a new beginning for you.",
+    "yesno": "The Magician is symbolic of action and power in your life. Its positive connotations illustrate someone who is a smooth talker and good at all aspects of communication. This card suggests using your strong will power to move forward and take action. The answer to your question is yes."
+  }, {
+    "id": 2,
+    "name": "The High Priestess",
+    "image": "images/card-deck/2.jpg",
+    "keywords": "Feminine influences · Insightful · Mystery · Understanding · Wisdom",
+    "general": "Your identification with the High Priestess suggests you possess inherent good judgment, in the form of strong intuition. She may indicate that reason should take second place to instinct. Your head must trust in the wisdom of your heart for a change. Yet, she is also an aide by nature, and her presence in certain parts of your spread could be indicative of someone close to you coming to your rescue with their own intuition. Intuition is most effective at seeing what is hidden to the senses, so the High Priestess may also come as a warning of concealed facts or influences that are, or will be, important to you.",
+    "past": "You have been in need of new experiences and may wander somewhere outside of your comfort zone. If you are lacking support in important areas of your life, you should consider the idea of investing your time in new people and new ideas. You are entering a time of renewal, but you may need the help of another.",
+    "present": "The undiscovered or repressed creative abilities you have are demanding to be expressed. Finding a spiritual guide will help you realize the full potential of your psychic or artistic abilities. In order to get what you desire, you will need to overcome your fear of commitment.",
+    "future": "You are on course to receive real rewards, but only if you continue your discipline and motivation. If you reject the attempts to dissuade you, your future is bright. Follow your intuition and you are headed towards the lasting contentment of success.",
+    "yesno": "The High Priestess is a spiritually intuitive woman full of mystery, wisdom, and understanding. A journey of self-discovery goes hand-in-hand with the presence of this card in your spread. She stands for things yet to be discovered in your life, and thus the answer to your question is unclear."
+  }, {
+    "id": 3,
+    "name": "The Empress",
+    "image": "images/card-deck/3.jpg",
+    "keywords": "Abundant creativity · Fertility · Fulfillment · Mother figure · Productivity",
+    "general": "Traditionally associated with strong maternal influence, the presence of the Empress is excellent news if you are looking for harmony in your marriage or hoping to start a family. Any artistic endeavours you are currently associated with are also likely to be more successful, as this card often finds those exposed to strong bursts of creative or artistic energy. That creative energy may not be in the form of a painting or art project, however: This card also suggests a very strong possibility of pregnancy -- not necessarily yours, but you might be seeing a new addition to your extended family or the family of a close friend in the near future! This card is a good portent for you and those around you.",
+    "past": "The last opportunity you had is proving its influence now. Whether business, personal, or artistic, a new partnership will require your continued effort to succeed. Remember your most resourceful behaviors, but especially your discipline.",
+    "present": "There may be a new beginning unfolding before you and you decided its quality. Be understanding and especially sensitive to the emotional aspects of life. A loved one will need a helping hand or light in the dark. The role is yours to fill, no matter your choice.",
+    "future": "The future will bring healing and respite for your emotional and physical wounds. Spending time walking on new paths will be more beneficial than mending bridges. Your investments will pay off if you carefully tend them.",
+    "yesno": "The Empress stands for all things motherly. A nurturing, loving problem solver, she indicates successful business ventures or other positive, productive opportunities to come. She suggests moving forward to fulfill your full potential, and the answer you seek is yes."
+  }, {
+    "id": 4,
+    "name": "The Emperor",
+    "image": "images/card-deck/4.jpg",
+    "keywords": "Authority · Father figure · Masculine influence · Rational · Stable",
+    "general": "Counterpart to the Empress, the Emperor is signifies a powerful influence, generally male in nature. This can also include concepts in your life historically considered masculine, such as leadership and authority, self-discipline, and stability through the power of action. Its positive influences suggest you may be on a path to advancement or promotion, but it can also be neutral. Often a companion to those destined to take on greater responsibility, it may presage change or loss that necessitates you stepping forward to shoulder a greater burden than you have in the past. Whatever the impetus for the change, it indicates you may possess an uncommon inner strength that will compel you act and to lead.",
+    "past": "Authority has played a great role in shaping your life. Your good position may be due to a government or a powerful person. The resolution of a recent conflict is approaching.",
+    "present": "There may be a moment where someone in a position of authority offers to help you. In any form, the more experienced hand that has come to help you may be more capable than yours. Protecting your loved ones is important, but those in a leadership position must know how to compromise. Beware the overly-dependant.",
+    "future": "Taking the initiative may lead you closer to your goal, but only if you can bear the responsibility of all your actions. You will be given the opportunity to lead in one of life's many roles. Remember those who follow behind you.",
+    "yesno": "The Emperor, as the counterpart to the Empress, stands for all things fatherly. He is structure, order, and authority in your life. While moving forward in your endeavours, this card indicates that assertiveness and rationality will take you a long way. With that, your answer is yes."
+  }, {
+    "id": 5,
+    "name": "The Hierophant (Pope)",
+    "image": "images/card-deck/5.jpg",
+    "keywords": "Approval · Conformity · Consent · Good advice · Marriage or Union",
+    "general": "Depending on your own nature, the Hierophant can mean very different things. At its root, it represents doctrine, but doctrine can come in the form of teaching and guidance or rigid authority. Where it appears in your spread is also important, as it is most often indicative of your own approach to the moral, religious, and social conventions of the world. Considered wisely, it helps show the path towards fulfillment.",
+    "past": "There is value in an ambition from your past. Look to a strength that you may have neglected.",
+    "present": "The opportunity for work or study under a superior is approaching. If the others around you are capable of being wrong, so are you.",
+    "future": "Look to the support of a solid organization or structured principles to achieve success. Your actions should be motivated beyond selfish reasons, or there will be little reward for them.",
+    "yesno": "The Hierophant is a symbol of education and tradition. This card suggests seeking spiritual guidance or advice in your life. Also indicative of conformity and religious approval, this card has neither a positive or negative connotation. The only answer is maybe."
+  }, {
+    "id": 6,
+    "name": "The Lovers",
+    "image": "images/card-deck/6.jpg",
+    "keywords": "Attachment or combination · Conflicting choices · Partners · Relationships · Union",
+    "general": "Your first instinct will most likely be to associate this card as representing love, but, much like love, it does not possess a simple nature. Not only does love comes in many forms, but the Lovers may indicate important or difficult choices ahead in your life. This is bad, in that the choices it portends are generally mutually exclusive, paths to two very different futures, but also good, in that it also confirms that at least one of those paths will take you to a good place. As such, if you happen to find it in your spread, you should consider it carefully, but not fear it. It tells a story of difficult choices, likely painful, but that the correct decision and a positive outcome are within your grasp.",
+    "past": "By becoming more in tune with yourself, you will be more able to connect with others. The emotional burden of a recent conflict will soon be lifted and a successful resolution reached.",
+    "present": "There is an approaching conflict that will test your values. In order to progress, you are going to have to make a decision between love and career. Neither will disappear forever, but the choice will shape your priorities.",
+    "future": "It will benefit you to remember that opposites are two sides of the same coin; there is not one without the other. The right choice will be made only if you have accepted others and yourself.",
+    "yesno": "The Lovers suggest being at a crossroads somewhere in your life. While this card is highly symbolic of relationships, love, and togetherness, it could also be revealing a positive business partnership or teaming up to move forward in your life. The answer to your question is yes."
+  }, {
+    "id": 7,
+    "name": "The Chariot",
+    "image": "images/card-deck/7.jpg",
+    "keywords": "Journey · Progression · Strong character · Success from effort · Transportation and movement",
+    "general": "You have some hard work ahead of you. It may be resolved quickly, but the Chariot is a powerful card, and the labor you are undertaking will probably trend towards long and difficult. You will quite possibly experience rough roads, long uphill slopes, dead ends, and painful setbacks. A good outcome is only assured if the card is upright, but do not let yourself lose hope: This hard road will instil in you a strength of purpose, the ability to overcome through organization and endurance, and the confidence possessed only by those who have done what they thought they could not. Harnessed correctly, few forces can stand against an individual like that.",
+    "past": "Your character has been tested by the tendency to protect your own interests and ego. The struggle has strengthened you and recent events have given you a chance to accomplish your victory.",
+    "present": "Good news is coming and you will better the opposition in a decisive victory.",
+    "future": "Continue your struggle and the end you seek will be achieved. Honor, acclaim, and recognition are all possible outcomes for you if you do not quit.",
+    "yesno": "The Chariot reveals some sort of journey. With a positive connotation, this journey will most likely be a progression of some sort. It could also be the final success you have been working for. The confidence, direction, and victory shown through this card indicate that the answer is yes."
+  }, {
+    "id": 8,
+    "name": "Strength",
+    "image": "images/card-deck/8.jpg",
+    "keywords": "Energy · Facing problems · Strengh · Vitality · Willpower",
+    "general": "Strength is the rawest form of power, and you possess it in some form. It is a very happy card if you are fighting illness or recovering from injury. As might be suspected, its influence over you, and the use you put it to, can trend towards light or dark. You likely trend towards facing your problems courageously, head-on, and conquering them through perseverance and will. With this ability to overcome life's obstacles, though, comes the responsibility to control yourself, and it this card may be a warning to take command of your own actions or emotions before they damage you or the people you care about.",
+    "past": "Your strength is balanced and you have both physical endurance and mental strength. This inner strength may lead you to explore the other potentials for your abilities.",
+    "present": "Do not turn down any offers that will change your future. Have faith in your own convictions, and be strong enough to trust where you will land.",
+    "future": "There is a strong, energetic release in your future which will lead you into major life changes. By understanding your true value, you will make the most of a wonderful chance to improve your life.",
+    "yesno": "The Strength card shows a presence of self-assurance and confidently facing problems in your life. It suggests a person who enjoys power but has the capacity to exercise great self-control in all matters. Patience and strength may be required in your pursuits, and the answer you seek is most likely yes."
+  }, {
+    "id": 9,
+    "name": "The Hermit",
+    "image": "images/card-deck/9.jpg",
+    "keywords": "Detachment · Guidance · Solitude · Sour-searching and introspection · Thinking and reflection",
+    "general": "There are times in every life, when one must step back and make a careful examination of their situations and decisions. Finding the Hermit in your spread suggests this is just such a time for you. You are in need of a period of inner reflection, away from the current demands of your position. This retreat can be physical, or a search within. Only a deep and honest introspection will lead to a solution, however.",
+    "past": "The pace of your past has slowed, and it is time to accept this. Continue looking for your finals goals and consider the insight you have recently gained.",
+    "present": "There is someone who can help you through all your problems, and their insight may surprise you. This person is yourself. By understanding yourself, you can better understand others.",
+    "future": "When you become aware of your true road, there will be nothing to stand in your way. Life has challenged you, but you are prepared to make the best of the future.",
+    "yesno": "The Hermit is a card symbolic of seeking some sort of spiritual enlightenment. Solitary introspection and contemplation are also associated with the Hermit. Perhaps some soul-searching and reflection are required on your part. The answer to your question, therefore, is maybe."
+  }, {
+    "id": 10,
+    "name": "Wheel of Fortune",
+    "image": "images/card-deck/10.jpg",
+    "keywords": "Change · Destiny · Good luck · Life cycles · New direction",
+    "general": "Symbolic of life's cycles, the Wheel of Fortune speaks to good beginnings. Most likely, you will find the events foretold to be positive, but, being aspects of luck, they may also be beyond your control and influence. Tend those things you can control with care, and learn not to agonize over the ones you cannot.",
+    "past": "The actions of your past are the seeds of your future success. To make progress, you must accept the changes coming.",
+    "present": "There is a beneficial change approaching, but keep in mind that luck is out of your control.",
+    "future": "The future will yield an opportunity to change paths towards personal growth and happiness. You must be ready to change your ways of thinking, because whether or not your actions bring success, they represent beneficial change.",
+    "yesno": "The Wheel of Fortune stands for luck, changes, and a new direction in your life. While it also shows ups and downs, the overall feel of the card is a positive one indicating changes for the better and good fortune. The answer you are looking for is yes."
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": 0,
+    "name": "Card 0",
+    "image": "images/card-deck/0.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 1,
+    "name": "Card 1",
+    "image": "images/card-deck/1.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 2,
+    "name": "Card 2",
+    "image": "images/card-deck/2.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 3,
+    "name": "Card 3",
+    "image": "images/card-deck/3.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 4,
+    "name": "Card 4",
+    "image": "images/card-deck/4.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 5,
+    "name": "Card 5",
+    "image": "images/card-deck/5.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 6,
+    "name": "Card 6",
+    "image": "images/card-deck/6.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 7,
+    "name": "Card 7",
+    "image": "images/card-deck/7.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 8,
+    "name": "Card 8",
+    "image": "images/card-deck/8.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 9,
+    "name": "Card 9",
+    "image": "images/card-deck/9.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }, {
+    "id": 10,
+    "name": "Card 10",
+    "image": "images/card-deck/10.jpg",
+    "keywords": "Keyword · Keyword",
+    "general": "General description here",
+    "past": "'Past' description here",
+    "present": "'Present' description here",
+    "future": "'Future' description here",
+    "yesno": "'Single Card' description here"
+  }
+]

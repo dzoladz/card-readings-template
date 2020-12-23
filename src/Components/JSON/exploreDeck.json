@@ -1,0 +1,13 @@
+[
+  {
+    "id": 0,
+    "name": "First 5 Cards",
+    "min": 0,
+    "max": 5
+  },{
+    "id": 1,
+    "name": "Last 5 Cards",
+    "min": 5,
+    "max": 10
+  }
+]
