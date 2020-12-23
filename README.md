@@ -1,30 +1,34 @@
-[![MIT License][license-shield]][license-url]
-
-# Tarot Reader
-
-## Description 
-The app can do:
-- a three card tarot draw
-- a one card yes/no question tarot draw
-- or, the user can explore the different cards
+Card Reader App
+===============
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Images
-View Example Asset:
+Fictionalized Example Assets:
 
 ![Trull](./assets/images/readme-images/Trull.jpg)
+
+## Description 
+The user has three options.
+  1.  Past, Present, Future: The app randomly draws 3 cards and displays them for the user.  The first card is assigned to the past, the second to the present, and the third to the future.  The app then displays a guide on how the user can interpret the cards.
+
+  2.  Single Card:  A card is randomly drawn from the deck and displayed along with a guide to interpretation.
+
+  3.  Explore the Deck: The user can explore the different cards to learn more about them.
 
 ## Installation 
 If all files are kept in a single folder a web browser should be able to run the project.
 
 ## Usage 
-The user has three options.
-  1.  Past, Present, Future: The app randomly draws 3 cards and displays them for the user.  The first card is assigned to the past, the second to the present, and the third to the future.  The app then displays a guide on how the user can interpret the cards.
-
-  2.  Yes/No Question:  The user is prompted to enter a yes or no question in the text field.  This is just to keep a record of what they meant to ask the tarot and keep them honest, it doesn't factor into the draw at all.  When the user enters their question and hits submit, a card is randomly drawn from the deck and displayed along with a guide to interpretation.
-
-  3.  Explore the Tarot: The user can explore the different arcana and click on the cards to learn more about them.
-
+  1. Add image assets for each card to `/public/images/card-deck`
+  2. Update card meanings in `/src/JSON/deck.json`
+  3. Update `package.json` with the proper `"homepage": "http://dzoladz.github.io/card-reader-app",` deploy value
+  
+#### Commands
+- Local Package Installation `npm install`
+- Local Development Server `npm start`
+- Build production deploy on `gh-pages` branch, `npm run deploy`
+ 
 ## Credits 
-Fisher-Yates shuffle function taken from https://frankmitchell.org/2015/01/fisher-yates/
-
-fog background from https://codepen.io/camstephensdomo/pen/PVqpaP
+- [Fisher-Yates shuffle function](https://frankmitchell.org/2015/01/fisher-yates/)
+- [Fog background](https://codepen.io/camstephensdomo/pen/PVqpaP)
+- [Bloomquist Tarot Reader](https://github.com/bryanbloomquist/tarot-reader)
